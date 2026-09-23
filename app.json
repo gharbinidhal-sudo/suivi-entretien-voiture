@@ -6,6 +6,17 @@
     "orientation": "portrait",
     "userInterfaceStyle": "light",
     "android": {"package":"com.suivientretien.voiture","adaptiveIcon":{"backgroundColor":"#111827"}},
+    "assetBundlePatterns":["**/*"]
+  }
+}
+{
+  "expo": {
+    "name": "Suivi Entretien Voiture",
+    "slug": "suivi-entretien-voiture",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {"package":"com.suivientretien.voiture","adaptiveIcon":{"backgroundColor":"#111827"}},
     "plugins":["@react-native-async-storage/async-storage"],
     "assetBundlePatterns":["**/*"]
   }
